@@ -3,3 +3,7 @@
 backup
 chroma
 all_test.ipynb
+.ipynb_checkpoints/
+.virtual_documents/
+__pycache__/
+chroma/
