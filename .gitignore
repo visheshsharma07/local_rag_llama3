@@ -2,6 +2,7 @@
 .DS_Store
 backup
 chroma
+docs
 all_test.ipynb
 .ipynb_checkpoints/
 .virtual_documents/
